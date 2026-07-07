@@ -22,11 +22,3 @@ The models had trained done on Google Colab, and were able to achieve optimal pe
 Visualizing key insights through three distinctive visuals included confusion matrices which gave a detailed breakdown of classification outcomes, and also the plotting of the area under the ROC curve provided a comprehensive view of model discrimination abilities. Additionally, training and validation loss charts illustrated the learning dynamics for movie sentiment analysis on the IMDB Dataset.
 
 
-## Contributors
-- Ahmad Bajwa
-- Atharva Biyani
-- Aditya Kumar
-- Jack Le
-- Pranava Ravindran
-- Anish Nyalakonda (Research Lead)
-- Dr. Doug Degroot (Faculty Advisor)
